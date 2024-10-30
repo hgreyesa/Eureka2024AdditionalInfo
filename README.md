@@ -72,7 +72,7 @@ This repository presents the additional information for the "A Pollutant Release
 
 $^a$ CAS Number, chemical symbol, or categorical value assigned in the NOM-165-Semarnat-2013;
 $^*$ respirable dust, fumes and vapors;
-$^{**}$ Soluble compounds;
-$^{***}$ Compounds;
+$^*$$^*$ Soluble compounds;
+$^*$$^*$$^*$ Compounds;
 
 ### Figures
