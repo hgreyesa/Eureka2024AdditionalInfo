@@ -70,9 +70,10 @@ This repository presents the additional information for the "A Pollutant Release
 | **PCDDs**          | Chlorinated Dibenzo-p-Dioxins (CDDs) | Not Considered | &check;        |                         |                   |
 | **S/C10**          | Chlorinated Dibenzo-p-Dioxins (CDDs) | Not Considered | &check;        | &check;             |                   |
 
-$^a$ CAS Number, chemical symbol, or categorical value assigned in the NOM-165-Semarnat-2013;
-$^*$ respirable dust, fumes and vapors;
-$^*$$^*$ Soluble compounds;
-$^*$$^*$$^*$ Compounds;
+Notes:
+* $^a$ CAS Number, chemical symbol, or categorical value assigned in the NOM-165-Semarnat-2013;
+* $^*$ respirable dust, fumes and vapors;
+* $^*$$^*$ Soluble compounds;
+* $^*$$^*$$^*$ Compounds;
 
 ### Figures
