@@ -11,8 +11,8 @@ This repository presents the additional information for the "A Pollutant Release
 
 
 ## Tables
-**Table 1**: List of substances released or transferred in the municipalities located into the study area
-| **CAS Number$^a$** | **Substance name**                   | **IARC Group** | **Altamira (003)** | **Ciudad Madero (009)** | **Tampico (038)** |
+**Table 1**: List of substances released or transferred in the municipalities located in the study area
+| **CAS Number $^a$** | **Substance name**                   | **IARC Group** | **Altamira (003)** | **Ciudad Madero (009)** | **Tampico (038)** |
 |--------------------|--------------------------------------|----------------|--------------------|-------------------------|-------------------|
 | **106-99-0**       | 1,3-Butadiene                        | 1              | &check;          |                         |                   |
 | **1332-21-4**      | Asbestos (all forms)                 | 1              | &check;        |                         |                   |
