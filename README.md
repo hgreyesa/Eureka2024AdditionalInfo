@@ -1,4 +1,4 @@
-# Eureka2024AdditionalInfo
+# A Pollutant Release Analysis of Toxic Substances in the Conurbed Area of the South of Tamaulipas
 
 This repository presents the additional information for the "A Pollutant Release Analysis of Toxic Substances in the Conurbed Area of the South of Tamaulipas" paper.
 
